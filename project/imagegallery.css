@@ -1,0 +1,19 @@
+body{
+  background: url("https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  width: 400px;
+  height: 400px;
+  margin: 30px;
+
+}
+.navbar{
+  background: orange;
+  padding-top: 20px;
+}
+.container .jumbotron{
+  background: green;
+  color: white;
+  padding-top: 100px;
